@@ -1,5 +1,6 @@
 == README
 
-Blogger.
+Blogger:
+http://tutorials.jumpstartlab.com/projects/blogger.html#i0:-up-and-running
 
 Rails tutorial project for Turing School.
